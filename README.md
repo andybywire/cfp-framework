@@ -28,7 +28,7 @@ This is a bare bones project base for the Content First Prototyping framework. I
 
 2. Clone/copy the Content first Prototyping Starter Kit to your project folder (this will take a minute or so)
 
-        $ git clone https://github.com/andybywire/cfp-framework.git
+        $ git clone https://github.com/andybywire/cfp-framework.git <name_of_project>
 
     **- or -**
 
@@ -42,9 +42,9 @@ This is a bare bones project base for the Content First Prototyping framework. I
 
         $ npm install
 
-4. Run `npm start`. Once installed, this is the only command you'll need to run to begin a new session. 
+4. Run `gulp`. Once installed, this is the only command you'll need to run to begin a new session. 
 
-        $ npm start
+        $ gulp
 
 ## Documentation
 
