@@ -6,6 +6,7 @@ var gulp = require('gulp'),
     s2j = require('gulp-sheets2json');
  
 var sassPaths = [
+    'bower_components/normalize.scss/sass',
     'bower_components/foundation-sites/scss',
     'bower_components/motion-ui/src'
 ];
