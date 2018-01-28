@@ -5,3 +5,4 @@ bower_components
 node_modules
 _site
 _data/*.json
+_data/~$_data.xlsx
